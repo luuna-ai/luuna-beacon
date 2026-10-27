@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/brodynelly/luuna-beacon/internal/model"
+	"github.com/luuna-ai/luuna-beacon/internal/model"
 )
 
 func runAt(t *testing.T, dir string, args ...string) (int, string, string) {

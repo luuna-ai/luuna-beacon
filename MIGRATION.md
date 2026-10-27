@@ -1,6 +1,6 @@
 # Repository extraction, October 21, 2026
 
-Maintainer and release owner: brodynelly. Destination: https://github.com/brodynelly/luuna-beacon.
+At extraction time, the maintainer was brodynelly and the initial destination was https://github.com/brodynelly/luuna-beacon. That destination is historical; the current canonical repository is https://github.com/luuna-ai/luuna-beacon.
 
 - Source: brodynelly/luuna at `fd42d59c5f608b9120d9cdc2e2354b66f945a5ed`, path `components/beacon`.
 - Component-scoped history: `git subtree split --prefix=components/beacon fd42d59c5f608b9120d9cdc2e2354b66f945a5ed` produced `bc87c5fe5fca8d43d32eb656ed233df36a20af8a`.
@@ -12,7 +12,7 @@ Maintainer and release owner: brodynelly. Destination: https://github.com/brodyn
 
 Visibility: public, explicitly authorized by the owner on October 21, 2026. Luuna remains private. No private authoring records or credential files are included in the extracted history.
 
-The owner requested the explicit luuna-* repository names on October 21, 2026. GitHub repository identity, history and CI are preserved by rename; the canonical destination is brodynelly/luuna-beacon.
+The owner requested the explicit luuna-* repository names on October 21, 2026. GitHub repository identity, history and CI are preserved by rename; the original canonical destination was brodynelly/luuna-beacon; the current canonical destination is luuna-ai/luuna-beacon.
 
 # Project layout move, October 22, 2026
 

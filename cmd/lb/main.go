@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/brodynelly/luuna-beacon/internal/cli"
+	"github.com/luuna-ai/luuna-beacon/internal/cli"
 )
 
 func main() {

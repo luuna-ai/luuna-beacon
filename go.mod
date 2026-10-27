@@ -1,4 +1,4 @@
-module github.com/brodynelly/luuna-beacon
+module github.com/luuna-ai/luuna-beacon
 
 go 1.27.0
 
