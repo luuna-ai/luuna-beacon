@@ -1,6 +1,6 @@
 # Luuna Beacon
 
-Prompt composition and versioned agent instructions. It is maintained in the independent public repository [brodynelly/luuna-beacon](https://github.com/brodynelly/luuna-beacon).
+Prompt composition and versioned agent instructions. It is maintained in [luuna-ai/luuna-beacon](https://github.com/luuna-ai/luuna-beacon).
 
 Run from this directory with Go 1.27.0:
 
@@ -39,7 +39,7 @@ Read [UPSTREAM.md](UPSTREAM.md) for attribution and provenance, [AGENTS.md](AGEN
 
 ## Maintenance and releases
 
-The repository owner and release maintainer is `brodynelly`. CI runs Go tests, vet, and builds on Linux and Windows. Registry publishing is disabled. Luuna pins a reviewed commit, never a floating branch; update its submodule only after CI and the consumer smoke pass. See [MIGRATION.md](MIGRATION.md) for the verified source baseline.
+The repository is maintained by the luuna-ai organization. CI runs Go tests, vet, and builds on Linux and Windows. Registry publishing is disabled. Luuna pins a reviewed commit, never a floating branch; update its submodule only after CI and the consumer smoke pass. See [MIGRATION.md](MIGRATION.md) for the verified source baseline.
 
 ## Origin / attribution
 

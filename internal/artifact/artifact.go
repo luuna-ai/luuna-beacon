@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/brodynelly/luuna-beacon/internal/model"
+	"github.com/luuna-ai/luuna-beacon/internal/model"
 )
 
 func Digest(value []byte) string { sum := sha256.Sum256(value); return hex.EncodeToString(sum[:]) }

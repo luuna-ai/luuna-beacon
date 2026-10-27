@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/brodynelly/luuna-beacon/internal/artifact"
-	"github.com/brodynelly/luuna-beacon/internal/model"
-	"github.com/brodynelly/luuna-beacon/internal/paths"
-	"github.com/brodynelly/luuna-beacon/internal/store"
+	"github.com/luuna-ai/luuna-beacon/internal/artifact"
+	"github.com/luuna-ai/luuna-beacon/internal/model"
+	"github.com/luuna-ai/luuna-beacon/internal/paths"
+	"github.com/luuna-ai/luuna-beacon/internal/store"
 	"gopkg.in/yaml.v3"
 )
 

@@ -14,7 +14,7 @@ record, see `SPEC.md`. For architecture orientation, see
 
 - `bun --version` ≥ the version in `package.json` `engines.bun` (≥ 1.0).
 - `gh auth status` → authenticated, with `repo` + `workflow` scopes.
-- `git remote -v` shows the canonical origin (`github.com/brodynelly/luuna-beacon`).
+- `git remote -v` shows the canonical origin (`github.com/luuna-ai/luuna-beacon`).
 - For npm publish: `npm whoami` → `jayminwest`; 2FA enabled on the
   account.
 - Local working tree on `main`, fully up to date, `git status` clean.
