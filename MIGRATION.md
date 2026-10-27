@@ -10,7 +10,7 @@ At extraction time, the maintainer was brodynelly and the initial destination wa
 - This commit adds standalone ownership, documentation and CI. Luuna consumes the exact reviewed Git commit as a submodule at the existing path.
 - No registry package is published. GitHub access supplies source retrieval; npm release credentials are intentionally unnecessary.
 
-Visibility: public, explicitly authorized by the owner on October 21, 2026. Luuna remains private. No private authoring records or credential files are included in the extracted history.
+The extraction was publicly authorized on October 21, 2026. At that time, the Luuna core repository remained private. No private authoring records or credential files were included in the extracted history. The current Luuna core repository is public under the luuna-ai organization.
 
 The owner requested the explicit luuna-* repository names on October 21, 2026. GitHub repository identity, history and CI are preserved by rename; the original canonical destination was brodynelly/luuna-beacon; the current canonical destination is luuna-ai/luuna-beacon.
 
