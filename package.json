@@ -1,0 +1,32 @@
+{
+	"name": "@luuna/beacon-cli",
+	"version": "0.2.6",
+	"description": "Luuna Beacon CLI backed by the Go implementation",
+	"type": "module",
+	"bin": {
+		"luuna-beacon": "src/index.ts",
+		"lbc": "src/index.ts",
+		"lb": "src/index.ts"
+	},
+	"files": [
+		"cmd",
+		"internal",
+		"src",
+		"go.mod",
+		"go.sum"
+	],
+	"scripts": {
+		"test:go": "go test ./..."
+	},
+	"engines": {
+		"bun": ">=1.4.3"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/luuna-ai/luuna-beacon.git"
+	},
+	"homepage": "https://github.com/luuna-ai/luuna-beacon",
+	"private": true,
+	"packageManager": "bun@1.4.3"
+}
